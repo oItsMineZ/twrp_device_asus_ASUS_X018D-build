@@ -10,15 +10,15 @@ on:
       MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: 'twrp-7.1'
+        default: 'twrp-9.0'
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/oItsMineZ/twrp_device_asus_ASUS_X018D'
+        default: 'https://github.com/X018D/twrp_device_asus_ASUS_X018D'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'twrp-7.1'
+        default: 'reduce'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
